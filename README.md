@@ -1,13 +1,9 @@
 ### Hi there 👋
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jonathankamau/jonathankamau/master/resources/images/my-initials.gif"/>
-</p>
 
-My name is Jonathan Kamau and I am a Software Engineer and Data Engineer. I have over three years of experience, mostly in a backend role with Python working in distributed teams. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
+My name is Alexander Scherf and I am a Data Scientist and Data Engineer at Consist Software Solutions. I have over 10 years of experience in applied statistics and data modeling. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
 
 <p align="center">
-  <a href="http://jonathankamau.com/" target="_blank">More about Me</a> | 
-  <a href="https://www.linkedin.com/in/kamaujonathan/" target="_blank">Linkedin</a>
+  <a href="https://www.xing.com/profile/Alexander_Scherf16/cv" target="_blank">Xing</a>
 </p>
 
 ## I am proficient in the following Languages/Frameworks/Technologies:
