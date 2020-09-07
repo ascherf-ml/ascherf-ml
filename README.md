@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexander Scherf and I am a Data Scientist and Data Engineer at Consist Software Solutions. I have over 10 years of experience in applied statistics and data modeling. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
+My name is Alexander Scherf and I am a Data Scientist and Data Engineer at Consist Software Solutions. I have over 10 years of experience in applied statistics and data modeling. Right now I am combining my knowledge of statistics with my passion for programming in python. 
 
 <p align="center">
   <a href="https://www.xing.com/profile/Alexander_Scherf16/cv" target="_blank">Xing</a>
