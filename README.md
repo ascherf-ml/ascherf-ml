@@ -8,7 +8,7 @@ My name is Alexander Scherf and I am a Data Scientist and Data Engineer at Consi
 
 ## I am proficient in the following Languages/Frameworks/Technologies:
 
-- <strong>Programming Languages:</strong> Python, STATA, SPSS, R
+- <strong>Programming Languages:</strong> Python, STATA, SPSS, R, SQL
 - <strong>Version Control Systems:</strong> Git/Github
 - <strong>Databases:</strong> PostgreSQL, Cassandra
 - <strong>Cloud Computing platforms:</strong> AWS, Google Cloud
