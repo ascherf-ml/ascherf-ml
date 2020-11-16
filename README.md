@@ -10,10 +10,10 @@ My name is Alexander Scherf and I am a Data Scientist and Data Engineer at Consi
 
 - <strong>Programming Languages:</strong> Python, STATA, SPSS, R, SQL
 - <strong>Version Control Systems:</strong> Git/Github
-- <strong>Databases:</strong> PostgreSQL, Cassandra
-- <strong>Cloud Computing platforms:</strong> AWS, Google Cloud
+- <strong>Databases:</strong> PostgreSQL, Cassandra, Deltalake
+- <strong>Cloud Computing platforms:</strong> AWS (S3, EC2, EMR, Redshift, Athena, Quicksight, Sagemaker, Polly), Google Cloud
 - <strong>Project Management Tools:</strong> Jira
-- <strong>Python Libraries:</strong> numpy, pandas, keras, NLTK
+- <strong>Python Libraries:</strong> numpy, pandas, keras, sklearn, NLTK, textblob, wordcloud, speech_recognition, seaborn, matpolotlib 
 - <strong>Others:</strong> Apache Spark, Apache Airflow, Databricks, Tensorflow
 
 
@@ -22,7 +22,6 @@ My name is Alexander Scherf and I am a Data Scientist and Data Engineer at Consi
 <li><a href="https://github.com/ascherf-ml/Data-Warehouse-on-AWS-Redshift" target="_blank">Data Warehouse on AWS Redshift</a></li>
 
 ## I am currently learning:
-- Finishing my Data Engineer Nanodegree from Udacity
 - Working on data streaming in Databricks with Spark
 
 
