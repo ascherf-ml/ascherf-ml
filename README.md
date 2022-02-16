@@ -24,7 +24,7 @@ My name is Alexander Scherf and I am a Data Scientist and Data Engineer at Consi
 ## I am currently learning:
 - Working on data streaming in Databricks with Spark
 
-<img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46415911" />
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46415911" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ascherf-ml&repo=github-readme-stats&hide=stars,contribs&count_private=true&show_icons=true&theme=merko" />
 
